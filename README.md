@@ -1,1 +1,1 @@
-# Bowler_Insights_Pose_Estimation
+# Bowler Insights: Joint Angle Analysis Using YOLOv8
